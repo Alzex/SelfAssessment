@@ -99,9 +99,9 @@
   - Pipe: 🖐️ used
   - Memoize: 🎓 known
   - Wrapper: 🙋 explained
-  - Functor: 👂 heard
-  - Monad: 👂 heard
-  - Monoid: 👂 heard
+  - Functor: +
+  - Monad: +
+  - Monoid: +
   - Generator: 🎓 known
   - Coroutine: 🎓 known
 - Data structures
@@ -139,7 +139,7 @@
   - IPv6: 🎓 known
   - NAT: 🎓 known
   - URL: 🙋 explained
-  - URN: 👂 heard
+  - URN: +
   - URI: 🎓 known
 - Process and tools
   - Compiler: 🎓 known

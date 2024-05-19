@@ -12,15 +12,15 @@
   - kqueue: 👂 heard
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
-  - libuv: 👂 heard
-  - Race conditions: 👂 heard
+  - libuv: +
+  - Race conditions: +
   - Dead locks: 🖐️ used
   - Live locks: 🖐️ used
-  - Concurrent programming: 👂 heard
-  - Parallel programming: 👂 heard
+  - Concurrent programming: *
+  - Parallel programming: *
   - Actor Model: 👂 heard
-  - Thread: 🎓 known
-  - Process: 🎓 known
+  - Thread: *
+  - Process: *
 - Async contracts
   - Callbacks: 🙋 explained
   - Callback-last-error-first: 🙋 explained
@@ -30,13 +30,13 @@
   - Future: 👂 heard
   - Deferred: 👂 heard
   - Sync generator: 🎓 known
-  - Async Generator: 🎓 known
-  - Async Iterator: 🎓 known
+  - Async Generator: *
+  - Async Iterator: *
   - Event: 🖐️ used
-  - Coroutine: 👂 heard
-  - Goroutine: 👂 heard
-  - Signal: 👂 heard
-  - Stream: 🎓 known
+  - Coroutine: +
+  - Goroutine: +
+  - Signal: +
+  - Stream: *
   - Chain of responsibility: 🙋 explained
   - Middleware: 🙋 explained
   - Locks: 🎓 known
@@ -49,15 +49,15 @@
 - Async abstractions interfaces
   - EventEmitter: 🙋 explained
   - Observable/Observer: 🖐️ used
-  - Readable: 🖐️ used
-  - Writable: 🖐️ used
+  - Readable: !
+  - Writable: !
   - Transform: 🖐️ used
   - Async Pool: 🖐️ used
   - Async Queue: 🖐️ used
   - Async Collector: 🖐️ used
-  - Semaphore: 🎓 known
-  - Mutex: 🎓 known
-  - Spin Lock: 🎓 known
+  - Semaphore: *
+  - Mutex: *
+  - Spin Lock: *
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
@@ -66,7 +66,7 @@
   - AbortSignal: 🖐️ used
   - Promise unhandled rejection: 🖐️ used
   - Promise double resolve: 🖐️ used
-  - Atomics: 👂 heard
+  - Atomics: *
   - High resolution clock: 👂 heard
   - Callback hell: 🙋 explained
   - Promise hell: 🙋 explained
