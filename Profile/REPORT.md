@@ -83,39 +83,26 @@ Total: you have `95` of `98` skills, `3` to be upgraded, and `81` above needed
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Race conditions | 👂 heard | ⟶  | 🎓 known |
-| Signal | 👂 heard | ⟶  | 🖐️ used |
-| Stream | 🎓 known | ⟶  | 🖐️ used |
+| Signal | 🎓 known | ⟶  | 🖐️ used |
 | Revealing constructor | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `46` of `50` skills, `4` to be upgraded, and `29` above needed
+Total: you have `48` of `50` skills, `2` to be upgraded, and `33` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Signal | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `36` of `37` skills, `1` to be upgraded, and `26` above needed
+Total: you have `37` of `37` skills, `0` to be upgraded, and `28` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | Pattern Reactor | 👂 heard | ⟶  | 🎓 known |
-| libuv | 👂 heard | ⟶  | 🎓 known |
-| Race conditions | 👂 heard | ⟶  | 🖐️ used |
-| Concurrent programming | 👂 heard | ⟶  | 🎓 known |
-| Parallel programming | 👂 heard | ⟶  | 🎓 known |
+| Race conditions | 🎓 known | ⟶  | 🖐️ used |
 | Actor Model | 👂 heard | ⟶  | 🎓 known |
-| Thread | 🎓 known | ⟶  | 🖐️ used |
-| Process | 🎓 known | ⟶  | 🖐️ used |
 | Sync generator | 🎓 known | ⟶  | 🖐️ used |
-| Async Generator | 🎓 known | ⟶  | 🖐️ used |
-| Async Iterator | 🎓 known | ⟶  | 🖐️ used |
-| Signal | 👂 heard | ⟶  | 🖐️ used |
-| Stream | 🎓 known | ⟶  | 🖐️ used |
+| Signal | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 🎓 known | ⟶  | 🖐️ used |
 | callbackify | 🎓 known | ⟶  | 🖐️ used |
 | asyncify | 🎓 known | ⟶  | 🖐️ used |
-| Semaphore | 🎓 known | ⟶  | 🖐️ used |
-| Atomics | 👂 heard | ⟶  | 🎓 known |
 | High resolution clock | 👂 heard | ⟶  | 🎓 known |
 | ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 🎓 known | ⟶  | 🖐️ used |
@@ -125,7 +112,7 @@ Total: you have `36` of `37` skills, `1` to be upgraded, and `26` above needed
 | Channel API | 👂 heard | ⟶  | 🎓 known |
 | Revealing constructor | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `49` of `75` skills, `26` to be upgraded, and `21` above needed
+Total: you have `59` of `75` skills, `16` to be upgraded, and `30` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 

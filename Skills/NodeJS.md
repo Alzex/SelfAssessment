@@ -68,7 +68,7 @@
   - Fetch API: 🖐️ used
   - IncomingMessage: 🖐️ used
   - HTTP(S): 🖐️ used
-  - TCP/SSL: 🎓 known
+  - TCP/SSL: 🖐️ used
   - UDP: 🎓 known
   - TLS: 🎓 known
   - Websocket: 🖐️ used
@@ -82,7 +82,7 @@
   - DDoS: 🙋 explained
   - XSS: 🖐️ used
   - Path traversal: 👂 heard
-  - CSRF: 👂 heard
+  - CSRF: 🎓 known
   - DNS: 🖐️ used
   - SQL injection: 🙋 explained
   - noDelay: 🎓 known
