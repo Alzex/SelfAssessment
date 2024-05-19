@@ -1,89 +1,89 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop !
-  - `try..catch` !
-  - Non-blocking !
-  - Async I/O *
-  - Thread pool +
-  - Pattern Reactor ~
-  - CAS operations ~
-  - epoll ~
-  - kqueue ~
-  - Completion ports ~
-  - Event ports ~
-  - libuv ~
-  - Race conditions ~
-  - Dead locks *
-  - Live locks *
-  - Concurrent programming ~
-  - Parallel programming ~
-  - Actor Model ~
-  - Thread +
-  - Process +
+  - Event loop: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - Non-blocking: 🙋 explained
+  - Async I/O: 🖐️ used
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 👂 heard
+  - CAS operations: 👂 heard
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
+  - libuv: 👂 heard
+  - Race conditions: 👂 heard
+  - Dead locks: 🖐️ used
+  - Live locks: 🖐️ used
+  - Concurrent programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Actor Model: 👂 heard
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks !
-  - Callback-last-error-first !
-  - Thenable !
-  - Promise !
-  - Async/await !
-  - Future ~
-  - Deferred ~
-  - Sync generator +
-  - Async Generator +
-  - Async Iterator +
-  - Event *
-  - Coroutine ~
-  - Goroutine ~
-  - Signal ~
-  - Stream +
-  - Chain of responsibility !
-  - Middleware !
-  - Locks +
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🙋 explained
+  - Thenable: 🙋 explained
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
+  - Future: 👂 heard
+  - Deferred: 👂 heard
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🖐️ used
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
+  - Signal: 👂 heard
+  - Stream: 🎓 known
+  - Chain of responsibility: 🙋 explained
+  - Middleware: 🙋 explained
+  - Locks: 🎓 known
 - Async adapters and utils
-  - callbackify +
-  - promisify *
-  - asyncify +
-  - Callbacks compose +
-  - Async compose *
+  - callbackify: 🎓 known
+  - promisify: 🖐️ used
+  - asyncify: 🎓 known
+  - Callbacks compose: 🎓 known
+  - Async compose: 🖐️ used
 - Async abstractions interfaces
-  - EventEmitter !
-  - Observable/Observer *
-  - Readable *
-  - Writable *
-  - Transform *
-  - Async Pool *
-  - Async Queue *
-  - Async Collector *
-  - Semaphore +
-  - Mutex +
-  - Spin Lock +
+  - EventEmitter: 🙋 explained
+  - Observable/Observer: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🖐️ used
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
+  - Async Collector: 🖐️ used
+  - Semaphore: 🎓 known
+  - Mutex: 🎓 known
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
-  - Timers *
-  - `setImmediate` *
-  - `nextTick` *
-  - AbortController *
-  - AbortSignal *
-  - Promise unhandled rejection *
-  - Promise double resolve *
-  - Atomics ~
-  - High resolution clock ~
-  - Callback hell !
-  - Promise hell !
-  - ref() and unref() ~
-  - Error handling in async code *
-  - Better stack traces with return await !
-  - JSON streaming serialization *
-  - AsyncLocalStorage +
-  - AsyncResource +
+  - Timers: 🖐️ used
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
+  - Promise unhandled rejection: 🖐️ used
+  - Promise double resolve: 🖐️ used
+  - Atomics: 👂 heard
+  - High resolution clock: 👂 heard
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
+  - ref() and unref(): 👂 heard
+  - Error handling in async code: 🖐️ used
+  - Better stack traces with return await: 🙋 explained
+  - JSON streaming serialization: 🖐️ used
+  - AsyncLocalStorage: 🎓 known
+  - AsyncResource: 🎓 known
 - Techniques
-  - Async.js library +
-  - RxJS library *
-  - Promise.all !
-  - Promise.allSettled !
-  - Promise.race !
-  - Promise.any !
-  - Web Locks API ~
-  - IPC ~
-  - Channel API ~
-  - Revealing constructor ~
+  - Async.js library: 🎓 known
+  - RxJS library: 🖐️ used
+  - Promise.all: 🙋 explained
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
+  - Web Locks API: 👂 heard
+  - IPC: 👂 heard
+  - Channel API: 👂 heard
+  - Revealing constructor: 👂 heard
