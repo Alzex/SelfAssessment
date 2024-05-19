@@ -1,7 +1,7 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: *
+  - Procedural programming: 🖐️ used
   - Imperative programming: 🎓 known
   - Structured programming: 🎓 known
   - Non-structured programming: 🎓 known
@@ -10,7 +10,7 @@
   - Object-oriented programming: 🙋 explained
   - Object-based programming: 🖐️ used
   - Generic programming: 🖐️ used
-  - Concurrent computing: *
+  - Concurrent computing: 🖐️ used
   - Asynchronous programming: 🖐️ used
   - Parallel programming: 🎓 known
   - Reactive programming: 🎓 known
@@ -21,7 +21,7 @@
   - Metaprogramming: 🎓 known
   - Actor model: 🎓 known
   - Lambda calculus: 👂 heard
-  - Black box: +
+  - Black box: 🎓 known
   - Information hiding: 👂 heard
   - Aspect-oriented programming: 👂 heard
   - Anemic domain model: 👂 heard
@@ -71,12 +71,12 @@
   - Observer: 🖐️ used
   - Strategy: 🎓 known
   - Facade: 🎓 known
-  - Proxy: *
+  - Proxy: 🖐️ used
   - Chain of Responsibility: 🎓 known
-  - Command: *
+  - Command: 🖐️ used
   - Iterator: 🖐️ used
   - State: 🖐️ used
-  - Bridge: *
+  - Bridge: 🖐️ used
   - Builder: 🎓 known
   - Prototype: 🖐️ used
   - Composite: 🎓 known

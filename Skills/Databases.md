@@ -6,7 +6,7 @@
   - Migrations: 🙋 explained
   - Schema versioning: 🎓 known
   - Backup and recovery: 🖐️ used
-  - Database scalability: *
+  - Database scalability: 🖐️ used
   - Relational databases: 🙋 explained
   - Key-value store: 🙋 explained
   - Tuple store: 👂 heard
@@ -16,7 +16,7 @@
   - Navigational databases: 🎓 known
   - Hierarchical databases: 🎓 known
   - In-memory databases: 🎓 known
-  - Inverted index: *
+  - Inverted index: 🖐️ used
   - Data control language (DCL): 🎓 known
   - Data definition language (DDL): 🎓 known
   - Data manipulation language (DML)
@@ -24,17 +24,17 @@
 - Relational
   - Entity-Relationship Diagram: 🙋 explained
   - Normal forms: 🎓 known
-  - Indexing: !
+  - Indexing: 🙋 explained
   - Primary keys: 🖐️ used
   - Foreign keys: 🖐️ used
   - Transactions: 🖐️ used
   - Views: 🖐️ used
   - Subqueries: 🖐️ used
-  - Stored procedures: *
-  - SQL functions: *
-  - Materialized views: *
-  - Replications: *
-  - Virtualization: *
+  - Stored procedures: 🖐️ used
+  - SQL functions: 🖐️ used
+  - Materialized views: 🖐️ used
+  - Replications: 🖐️ used
+  - Virtualization: 🖐️ used
 - SQL
   - `SELECT`: 🙋 explained
   - `INSERT`: 🙋 explained
